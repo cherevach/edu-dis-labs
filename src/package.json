@@ -1,0 +1,22 @@
+{
+  "name": "restful-koa.js",
+  "version": "1.0.0",
+  "description": "В цьому розділі розміщені програмні коди.",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "koa": "^2.13.4",
+    "koa-bodyparser": "^4.3.0",
+    "koa-router": "^10.1.1",
+    "mongoose": "^6.2.10"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
