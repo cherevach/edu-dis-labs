@@ -3,17 +3,17 @@ home: true
 actionText: Розпочати →
 actionLink: /intro/
 
-footer: "ECL 2.0 Licensed | Copyright © [YYYY] [Your Name]"
+footer: "ECL 2.0 Licensed | Copyright © 2022 Anatoliy Cherevach"
 ---
 
 
 **Виконали:** 
 
-*студенти [X]-го курсу, групи (шифр групи)* 
+*студент 4-го курсу, групи ІП-83* 
 
-**[ім’я ПРІЗВИЩЕ] [Посилання email, tg, fb]**
+**Анатолій Черевач**
 
-**[ім’я ПРІЗВИЩЕ] [Посилання email, tg, fb]**
+**anatoliycherevach@gmail.com**
 
 
 **Керівник**
